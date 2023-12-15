@@ -95,6 +95,7 @@ _NOTA: Ver FLIPPER ZERO como herramienta para PenTest_
 ### IR
 
 __Infrarroja__
+
 Utiliza ondas de luz para transmitir datos. Común en comunicación de corto alcance.
 Usado en controles remotos, teclados y mouse inalámbricos y comunicación entre computadores e impresoras.
 Es privado (no atraviesa paredes), de fácil configuración y de bajo consumo.
@@ -103,6 +104,7 @@ A pesar de todo esto, igual se debe tener consideraciones de seguridad:
 - Cifrado
 - Autenticación
 - Seguridad física
+  
 Algunos ataques a considerar:
 - Replay Attack: transmisión previamente grabada y legítima que se reproduce posteriormente para engañar
 - Spoofing: emular un dispositivo autorizado para ganar acceso
