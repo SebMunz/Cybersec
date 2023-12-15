@@ -18,6 +18,7 @@ Es de suma importancia garantizar que son dispositivos de confianza.
 ---
 
 > __Inalámbricas__
+
 Siendo el Wi-Fi el más común, ofrece flexibilidad y movilidad sin cable físico. Introduce riesgos de seguridad comunes. Para mitigar algunos riesgos, se recomienda el cifrado WPA3, el uso de contraseñas seguras y actualizaciones del firmware del router.
 Wi-Fi es conveniente en su uso por su conexión fácil de configurar y su escalabilidad.
 
@@ -37,6 +38,7 @@ Wi-Fi es conveniente en su uso por su conexión fácil de configurar y su escala
 ---
 
 > __Bluetooth__
+
 Conexión de corto alcance entre dispositivos. Conveniente pero no excento de ataques como Bluesnarfing, BlueBorne y Bluejacking. Para mitigar riesgos se recomienda mantener dispositivos actualizados, utilziar bluetooth 4.0 (mínimo) y desactivarlo cuando en desuso.
 Opera en la frecuencia 2.4 GHz.
 
@@ -53,16 +55,19 @@ Opera en la frecuencia 2.4 GHz.
 ---
 
 > __Enmascaramientos__
+
 O conexiones de red. Los VPN son túneles seguros que crean conexiones de red privada sobre una red pública. De esta forma se protege la información de interceptaciones. Útiles al usar Wi-Fi público. Utilizar proovedores confiables.
 
 ---
 
 > __P2P__
+
 Peer-to-Peer. Conexión descentralizada, común en servicios de intercambio de archivos. Sin medidas de seguridad adecuadas presentan un inmenso riesgo. Evitar los servicios no confiables y nunca compartir información sensible en ellos.
 
 ---
 
 > __NFC__
+
 _No confundir EMV, o el chip de las tarjetas, similar uso y similar tecnología, diferentes actores detras de ellas_
 
 Near Field Communication (Comunicación de campo cercano), deriva del área de las RFID (radio-frequency identification). Tecnología inalámbrica de corto alcance (PAN - Personal Area Network). Opera a 13.56 MHz, muy utilizado en aplicaciones como pagos sin contacto y control de acceso.
@@ -88,6 +93,7 @@ _NOTA: Ver FLIPPER ZERO como herramienta para PenTest_
 ---
 
 ### IR
+
 __Infrarroja__
 Utiliza ondas de luz para transmitir datos. Común en comunicación de corto alcance.
 Usado en controles remotos, teclados y mouse inalámbricos y comunicación entre computadores e impresoras.
