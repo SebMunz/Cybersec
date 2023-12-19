@@ -92,9 +92,7 @@ _NOTA: Ver FLIPPER ZERO como herramienta para PenTest_
 
 ---
 
-### IR
-
-__Infrarroja__
+> IR o __Infrarroja__
 
 Utiliza ondas de luz para transmitir datos. Común en comunicación de corto alcance.
 Usado en controles remotos, teclados y mouse inalámbricos y comunicación entre computadores e impresoras.
