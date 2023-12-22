@@ -1,75 +1,125 @@
 # _Notas y apuntes sobre Cybersec_
+
 _Mis apuntes personales sobre cyber seguridad, mientras me especializo con una certificación google y apuntes que obtengo de la web, desde lo más básico al infinito_ 😘
 
---- 
+---
 
 ### \.Skills básicos de TI
- - ###### Navegación computador ✔
-   - Usos básicos de oficina, aplicaciones, modificar preferencias
+
+- ###### Navegación computador ✔
+
+  - Usos básicos de oficina, aplicaciones, modificar preferencias
+
 - ###### Uso de internet ✔
+
   - Búsqueda web en distintos motores para solucionar problemas, descargas, hyperlinks, higiene de seguridad
+
 - ###### Procesamiento word ✔
+
   - Suites de oficina, correos, pdf, nociones básicas de seguridad en ellos
+
 - ###### Instalación programas ✔
+
   - Instalar/desintalar, actualizar, modificar permisos y preferencias
+
 - ###### Conocimientos básicos de seguridad ✔
-  - Uso de contraseñas seguras, actualizaciones, conexiones seguras, entendimiento de vulneraciones en la web (phishing, etc), copias de seguridad y su correcto manejo 
+
+  - Uso de contraseñas seguras, actualizaciones, conexiones seguras, entendimiento de vulneraciones en la web (phishing, etc), copias de seguridad y su correcto manejo
+
 - ###### Conocimientos computador ✔
+
   - Sistemas operativos (diferencias, ventajas, usos, soluciones), componentes hardware (cambios, mantención, compatibilidad), análisis de logs
 
 ---
 
 ### \.Tipos de conexiones
+
 ##### Referirse a documento "[Tipos de Conexiones](https://github.com/SebMunz/Cybersec/blob/main/Conexiones/Tipos%20de%20conexiones.md)" para mayor detalle
+
 - ###### Cable
+
 - ###### USB
+
 - ###### Enmascaramientos (como VPN)
+
 - ###### P2P
+
 - ###### NFC
+
 - ###### WiFi
+
 - ###### Bluetooth
+
 - ###### Infrarojo
 
 ---
 
 ### \.Sistemas Operativos
+
 ##### Referirse a documento "Sistemas operativos" para mayor detalle
+
 _Esto para Win, Mac y Linux_
+
 - ###### Instalación y configuración
+
 - ###### Versiones y diferencias
+
 - ###### Navigación por GUI y CLI
+
 - ###### Permisos
+
 - ###### Instalación de software y aplicaciones
+
 - ###### CRUD
+
 - ###### Solucionar problemas comunes
-- ###### Comandos comunes 
+
+- ###### Comandos comunes
 
 ---
 
 ### \.Networking
+
 ##### Referirse a documento "Networks" para mayor detalle
+
 - ###### Modelo OSI
+
 - ###### Protocolos y sus usos
+
   - HTTP(S), SSL/TLS, SSH, FTP, etc
+
 - ###### Puertos y sus usos
+
 - ###### Subnetting
+
 - ###### Topología
+
 - ###### Area Network
+
   - MAN, WAN, LAN, WLAN, VLAN
+
 - ###### Virtualización
+
   - Tecnología, herramientas y usos
+
 - ###### Herramientas para solucionar problemas
+
   - Packet sniffers, nslookup, tcpdump, etc
-- ###### Autenticación 
+
+- ###### Autenticación
+
   - Kerberos, SSO, certificados, etc
 
 ---
 
 ### \.Habilidades de Seguridad
+
 ##### Referirse a documentos de seguridad para más información
+
 _Estos irán separados en distintos archivos_
 
 > __CORE CONCEPTS__
+
 - CIA Triad
 - Handshakes
 - TRUE & FALSE positive, TRUE & FALSE negative
@@ -88,6 +138,7 @@ _Estos irán separados en distintos archivos_
 - PenTests
 
 > __HERRAMIENTAS__
+
 - comandos
   - nmap, tracert, nslookup, ping, ipconfig, etc
 - wireshark
@@ -95,6 +146,7 @@ _Estos irán separados en distintos archivos_
 - ParrotOS y Kali Linux
 
 > __ESTANDARES__
+
 - ISO
 - NIST
 - RMF
@@ -102,6 +154,7 @@ _Estos irán separados en distintos archivos_
 - CMF
 
 > __LOGS__
+
 - Event logs
 - Firewall logs
 - netflow
@@ -109,6 +162,7 @@ _Estos irán separados en distintos archivos_
 - Packet captures
 
 > __CONCEPTOS DE ENDURECIMIENTO__
+
 - MAC-based
 - NAC-based
 - Portblocking
@@ -117,6 +171,7 @@ _Estos irán separados en distintos archivos_
 - Endpoint security
 
 > __CRIPTOGRAFÍA BÁSICA__
+
 - Salting
 - Hashing
 - PKI
@@ -125,6 +180,7 @@ _Estos irán separados en distintos archivos_
 - Intercambio de llaves
 
 > __PROFUNDIZAR EN PROTOCOLOS__
+
 - FTP vs SFTP
 - SSL vs TLS
 - IPSEC
@@ -134,6 +190,7 @@ _Estos irán separados en distintos archivos_
 - S/MIME
 
 > __MÁS CONCEPTOS__
+
 - Antivirus
 - Antimalware
 - Firewall y Nextgen Firewall
@@ -144,11 +201,13 @@ _Estos irán separados en distintos archivos_
 - WPA vs WPA2 vs WPA3 vs WEP
 
 > __CLASIFICACIONES__
+
 - Día Zero
 - Conocido vs desconocido
 - APT
 
 > __MÁS HERRAMIENTAS__
+
 - VirusTotal
 - Joe Sandbox
 - any.run
@@ -157,6 +216,7 @@ _Estos irán separados en distintos archivos_
 - WHOIS
 
 > __TIPOS DE ATAQUES__
+
 - Phishing, Vishing, Whaling, Smishing
 - Spam vs Spim
 - Shoulder Surfing
@@ -172,6 +232,7 @@ _Estos irán separados en distintos archivos_
 - Brute Force, password spray, rainbow tables
 
 > __ATAQUES COMUNES EN RED__
+
 - DoS vs DDoS
 - MITM
 - ARP Poisoning
@@ -184,6 +245,7 @@ _Estos irán separados en distintos archivos_
 - War-driving/dialing
 
 > __OTROS ATAQUES COMUNES EN RED__
+
 - Buffer Overflow
 - Memory Leak
 - XSS
@@ -196,7 +258,9 @@ _Estos irán separados en distintos archivos_
 ---
 
 ### \. Conocimientos y habilidades para la nube
+>
 > __CLOUD__
+
 - Seguridad
 - Deploy
 - Cloud vs On-premise
@@ -205,21 +269,25 @@ _Estos irán separados en distintos archivos_
 - CDN
 
 > __SERVICIOS CLOUD__
+
 - SaaS
 - PaaS
 - IaaS
 
 > __AMBIENTES__
+
 - AWS
 - GCP
 - Azure
 
 > __MODELOS__
+
 - Privado
 - Público
 - Híbrido
 
 > __ALMACENAMIENTO__
+
 - S3
 - Dropbox
 - Box
@@ -230,6 +298,7 @@ _Estos irán separados en distintos archivos_
 ---
 
 ### \. Uso de lenguajes de programación
+
 - Python
 - Go
 - JS
