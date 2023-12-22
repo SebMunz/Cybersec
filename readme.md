@@ -20,7 +20,7 @@ _Mis apuntes personales sobre cyber seguridad, mientras me especializo con una c
 ---
 
 ### \.Tipos de conexiones
-##### Referirse a documento "Tipos de Conexiones" para mayor detalle
+##### Referirse a documento "[Tipos de Conexiones](https://github.com/SebMunz/Cybersec/blob/main/Conexiones/Tipos%20de%20conexiones.md)" para mayor detalle
 - ###### Cable
 - ###### USB
 - ###### Enmascaramientos (como VPN)
