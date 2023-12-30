@@ -1,5 +1,5 @@
 ### Servicios comunes en la nube
-test 1
+
 > AWS
 
 _Algunos de los servicios más usados_
