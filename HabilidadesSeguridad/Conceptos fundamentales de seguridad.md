@@ -6,7 +6,8 @@
 
 Dado que cada empresa valora activos específicos, tienden a diferir en el modo en que interpretan y abordan el riesgo. Una manera de interpretar el riesgo es considerar los posibles efectos que los eventos negativos pueden tener en una empresa. Otra forma de presentar esta idea es con el siguiente cálculo:
 
-[ \text{Probabilidad} \times \text{Impacto} = \text{Riesgo} \]
+
+*PROBABILIDAD* x *IMPACTO* = *RIESGO*
 
 
 Los dos factores de riesgo comunes son las amenazas y las vulnerabilidades. El riesgo de que un activo sufra daños depende en gran medida de si una amenaza aprovecha las vulnerabilidades.
