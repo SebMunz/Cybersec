@@ -1,5 +1,17 @@
 # Gestión de Activos y Clasificación
 
+Los activos se refieren a los componentes o recursos de un sistema que son valiosos y deben protegerse contra amenazas cibernéticas. Estos activos pueden incluir:
+
+-    Datos Confidenciales: Información sensible como contraseñas, información personal, datos financieros y cualquier otro dato que requiera protección.
+
+-    Sistemas y Redes: Los equipos informáticos, servidores, routers y demás dispositivos que forman parte de la infraestructura tecnológica de una organización.
+
+-    Software: Aplicaciones y programas críticos para el funcionamiento de la empresa que deben protegerse contra malware y ataques.
+
+-    Recursos Humanos: Los empleados que tienen acceso a sistemas y datos, así como su conocimiento y habilidades en ciberseguridad.
+
+-    Reputación de la Marca: La imagen y reputación de una organización pueden ser afectadas por brechas de seguridad, por lo que también se consideran activos importantes.
+
 ## Requisitos Comunes de Clasificación
 
 La gestión de activos implica rastrear los activos y evaluar los riesgos asociados. Identificar, seguir y clasificar son elementos fundamentales de este proceso. La premisa es simple: solo puedes proteger lo que conoces.
