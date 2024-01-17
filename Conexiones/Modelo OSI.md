@@ -1,47 +1,43 @@
-**Comparación Modelos TCP/IP y OSI:**
-- El Modelo de Interconexión de Sistemas Abiertos (OSI) es un marco que estandariza las funciones de un sistema de telecomunicaciones o cómputo en siete capas distintas.
-- TCP/IP facilita diseño y conceptualización de procesos en redes.
-- TCP/IP tiene cuatro capas; OSI tiene siete.
-- Ampliamente utilizado para comprender cómo diferentes protocolos y tecnologías de red trabajan juntos para habilitar la transmisión y comunicación de datos.
+# Comparación Modelos TCP/IP y OSI:
 
-**Capas del Modelo OSI:**
+- El Modelo de Interconexión de Sistemas Abiertos (OSI) estandariza funciones en siete capas, mientras que TCP/IP, con cuatro capas, simplifica el diseño y conceptualización de procesos en redes.
+- Ambos modelos son ampliamente utilizados para entender cómo diferentes protocolos y tecnologías de red colaboran para la transmisión y comunicación eficientes de datos.
+
+# Capas del Modelo OSI:
+
 1. **Capa de Aplicación (7):**
-   - Conecta al usuario a la red a través de aplicaciones y solicitudes.
+   - Conecta al usuario a la red mediante aplicaciones y solicitudes.
    - Interfaz entre el usuario y el sistema de comunicación.
    - Ejemplos: HTTP, SMTP, DNS.
 
 2. **Capa de Presentación (6):**
-   - Traducción y cifrado de datos para la red.
+   - Traduce y cifra datos para la red.
    - Ejemplo: SSL para cifrado.
 
 3. **Capa de Sesión (5):**
-   - Establece conexiones entre dispositivos.
-   - Maneja autenticación y reconexión.
+   - Establece conexiones entre dispositivos y maneja autenticación y reconexión.
 
 4. **Capa de Transporte (4):**
    - Envía datos, maneja velocidad y flujo.
-   - TCP y UDP son protocolos de transporte.
-   - 
+   - Protocolos de transporte: TCP y UDP.
 
 5. **Capa de Red (3):**
    - Supervisa recepción y entrega de paquetes según direcciones IP.
-   - Rutea paquetes de datos entre diferentes dispositivos en una red, independientemente del medio de conexión física.
-    - Determina la ruta óptima para transferir datos entre los dispositivos de origen y destino.
-    - Asigna direcciones lógicas (direcciones IP) a los dispositivos en la red.
+   - Rutea paquetes de datos entre dispositivos, independientemente del medio físico.
+   - Asigna direcciones lógicas (IP) a los dispositivos.
 
 6. **Capa de Enlace de Datos (2):**
-   - Organiza envío y recepción de paquetes en una red.
+   - Organiza envío y recepción de paquetes.
    - Incluye switches y tarjetas de interfaz de red.
-   - Crea un enlace confiable entre dos dispositivos en una red.
-   - Establece comunicación dividiendo los datos en tramas (unidades pequeñas) y asignando a cada trama una dirección única.
-   - Ofrece mecanismos de detección y corrección de errores para garantizar una transferencia de datos confiable.
+   - Crea enlaces confiables y detecta/corrige errores.
 
 7. **Capa Física (1):**
    - Hardware físico de transmisión de red.
-   - Transmite datos crudos (en forma de bits) entre dispositivos a través de un medio físico, como cables de cobre o cables de fibra óptica.
-   - Hubs, módems, cableado.
+   - Transmite datos crudos entre dispositivos a través de cables de cobre o fibra óptica.
+   - Incluye Hubs, módems y cableado.
 
-**Conclusiones Clave:**
-- Modelos TCP/IP y OSI ayudan a diseñar procesos y protocolos de transmisión de datos.
-- Modelo OSI tiene siete capas, usado para comunicación sobre problemas o amenazas.
-- Ingenieros y analistas de seguridad utilizan ambos modelos para conceptualizar procesos y ubicar interrupciones o amenazas.
+# Conclusiones Clave:
+
+- Modelos TCP/IP y OSI son esenciales para diseñar procesos y protocolos de transmisión de datos.
+- El Modelo OSI, con siete capas, se utiliza para comunicación detallada sobre problemas o amenazas.
+- Ingenieros y analistas de seguridad emplean ambos modelos para conceptualizar procesos y detectar interrupciones o amenazas.

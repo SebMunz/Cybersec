@@ -1,8 +1,10 @@
-**Modelo TCP/IP:**
+# Modelo TCP/IP:
+
 - Organiza la comunicación en red mediante protocolos.
 - Dos modelos comunes: TCP/IP y OSI (más detallado).
 
-**Capas del Modelo TCP/IP:**
+## Capas del Modelo TCP/IP:
+
 1. **Acceso a la red:**
    - Organiza envío y recepción de paquetes dentro de una red.
    - Involucra hardware físico como hubs, módems y cables.
@@ -23,11 +25,13 @@
    - Define accesos a servicios y aplicaciones.
    - Protocolos incluyen HTTP, SMTP, SSH, FTP, DNS.
 
-**Comparación con Modelo OSI:**
+## Comparación con Modelo OSI:
+
 - Modelo OSI visualiza protocolos en siete capas.
 - Modelo TCP/IP combina capas del modelo OSI.
 - Ambos ayudan a entender procesos y protocolos de transmisión de datos.
 
-**Conclusiones Clave:**
+## Conclusiones Clave:
+
 - Modelos TCP/IP y OSI facilitan visualización de procesos y protocolos en redes.
 - Modelo TCP/IP tiene cuatro capas, más simple que el modelo OSI de siete capas.
