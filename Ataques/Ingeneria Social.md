@@ -1,4 +1,4 @@
-# Ingeniería Social: Manipulación Humana en la Era Digital
+# Ingeniería Social
 
 Los hackers, tradicionalmente asociados con habilidades de programación, han diversificado sus métodos. La ingeniería social es una técnica de manipulación que explota errores humanos para obtener acceso a información, ya sea en línea o en persona.
 
