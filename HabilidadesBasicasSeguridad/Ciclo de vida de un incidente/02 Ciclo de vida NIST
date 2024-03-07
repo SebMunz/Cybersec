@@ -1,0 +1,24 @@
+## NIST Incident Response Lifecycle
+
+Sus cuatro fases principales:
+
+- Preparation
+    - Preparación. Se establecen políticas, procedimientos y controles necesarios.
+    - Se asignan responsabilidades, entrenar empleados, implementar tecnologías de detección y crear un plan de respuesta
+- Detection & Analysis
+    - Detección y análisis. Detectar los potenciales incidentes y analizarlos para determinar su naturaleza y alcance.
+    - Monitorear logs, alertas de intrusión, análisis de malware y otros
+- Containment, Eradication, and Recovery
+    - Contención, Erradicación, Recuperación. Al confirmar un incidente se toman medidas para contener el impacto, remover la amenaza y restaurar los sistemas afectados a un estado operacional seguro.
+    - Puede incluir desconectar los sistemas comprometidos, remover malware, restaurar respaldos e implementar parches de seguridad
+- Lessons Learned
+    - Lecciones aprendidas. Al ser resuelto el incidente, conducir una retrospección para identificar lo aprendido y mejorar los procesos para el futuro.
+    - Esto puede incluir analizar qué se hizo bien y qué se hizo mal durante el incidente, identificar areas de mejora en políticas, procedimientos, controles, etc.
+
+
+### Las 5 W de un incidente
+- who triggered it (quién)
+- what happened (qué)
+- when (cuándo)
+- where (dónde)
+- why (por qué)

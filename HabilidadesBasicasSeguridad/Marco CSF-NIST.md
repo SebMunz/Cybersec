@@ -1,3 +1,5 @@
+> TO DO: AQUI HAY QUE PROFUNDIZAR UN POCO
+
 # CSF-NIST
 ## Cybersecurity Framework
 
@@ -12,4 +14,9 @@ Los Niveles ofrecen formas de medir el rendimiento en cada una de las cinco func
 Perfiles (Profiles):
 Los Perfiles proporcionan información sobre el estado actual del plan de seguridad. Estos detalles ofrecen una visión específica de cómo se implementan las funciones del Núcleo en un entorno particular, permitiendo adaptar el enfoque de seguridad según las necesidades y características específicas de la organización.
 
-> AQUI HAY QUE PROFUNDIZAR UN POCO
+## Funciones principales
+- Identificar
+- Proteger
+- Detectar
+- Responder
+- Recuperar
