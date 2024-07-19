@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: true
+---
 # _Notas y apuntes sobre Cybersec_
 
 _Mis apuntes personales sobre cyber seguridad, mientras me especializo con una certificación google y apuntes que obtengo de la web, desde lo más básico al infinito_ 😘
